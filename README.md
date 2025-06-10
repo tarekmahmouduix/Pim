@@ -1,7 +1,7 @@
 # Pim
 Pim is a basic github-repositories manager.
 
-## Suppoerts:
+## Supports:
 - Creating a repo
 - Deleteing a repo
 - Staring a repo
